@@ -1,0 +1,70 @@
+#neilhighley_lg{
+    font-family:helvetica;
+    color:red;
+    font-weight:900;
+    font-size:6em;
+    letter-spacing:-0.13em;
+  }
+  #dotcom{
+    font-family:helvetica;
+    font-weight:900;
+    font-size:4em;
+    letter-spacing:-.1em;
+    margin-left:-20px;
+    color:rgba(2,0,0,.8)
+  }
+  #titletext>#header_lg{
+    font-family:helvetica;
+    color:blue;
+    font-weight:900;
+    font-size:4.5em;
+    letter-spacing:-0.11em;
+  }
+  #titletext>#subheader_lg{
+    font-family:helvetica;
+    font-weight:900;
+    font-size:2.5em;
+    letter-spacing:-.13em;
+    margin-left:-25px;
+    color:rgba(0,0,10,.9)
+  }
+  
+  
+  #copyincopy>#header_lg{
+    font-family:helvetica;
+    font-weight:900;
+    font-size:13em;
+    letter-spacing:-.13em;
+    line-height:-10px;
+    color:rgba(0,0,255,.9);
+  }
+  #copyincopy #header_lg2{
+    color:black;
+  }
+  #copyincopy>#copytext1{
+    font-family:helvetica;
+    color:black;
+    border:solid 1px;
+    border-color:rgba(0,0,0,0.5);
+    border-right:0px;
+    border-bottom:0px;
+    background-color:rgba(255,255,255,1);
+    position:relative;
+    top:-7.5em;
+    left:15em;
+    padding:2px 20px 6px 4px;
+  }
+  #copyincopy>#copytext2{
+    font-family:helvetica;
+    color:white;
+    border:solid 1px;
+    border-color:rgba(0,0,0,0.5);
+    border-right:0px;
+    border-bottom:0px;
+    background-color:rgba(255,0,0,1);
+    position:relative;
+    top:-5.9em;
+    left:-12em;
+    overflow:visible;
+    padding:6px 20px 2px 0px;
+  }
